@@ -67,8 +67,8 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/umarsmith/',
-        github: 'https://github.com/umarethina',
+        linkedin: 'umarsmith/',
+        github: 'umarethina',
         twitter: ''
     },
 
